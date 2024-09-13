@@ -1,1 +1,19 @@
-# Tableau_Challenge
+# Tableau Challenge - Citibike Dashboard
+### Data Analytics and Visualization - University of Toronto
+### Name: Thet Win
+### Date: September 12, 2024
+
+Summary
+
+The link to the dashboards and visualizations on Tableau Public is 
+
+https://public.tableau.com/views/CitiBikeChallenge_17262564716880/CitiBikeStoryboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+In this project we built a Tableau dashboards to relay information about the Citi Bike data from New York City, along with Pandas programming in Jypyter Notebook to conduct Data Engineering.
+
+
+About the Data
+
+Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program’s utilization. Through the team’s efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
+Analysis for this project is based on 2024 Citi Bike Data.
