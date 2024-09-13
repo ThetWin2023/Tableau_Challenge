@@ -11,7 +11,7 @@ Story:
 [https://public.tableau.com/views/CitiBikeChallenge_17262564716880/CitiBikeStoryboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/CitiBikeChallenge_17262564716880/CitiBikeStoryboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Dashboard:
-https://public.tableau.com/views/CitiBikeChallenge_17262564716880/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/views/CitiBikeChallenge_17262564716880/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/CitiBikeChallenge_17262564716880/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
