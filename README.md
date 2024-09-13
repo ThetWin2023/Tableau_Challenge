@@ -17,3 +17,5 @@ About the Data
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program’s utilization. Through the team’s efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
 Analysis for this project is based on 2024 Citi Bike Data.
+
+*Please note that May 2024 data is not avialble. Therefore May has been excluded from the reports and analysis.
