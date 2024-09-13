@@ -11,7 +11,7 @@ https://public.tableau.com/views/CitiBikeChallenge_17262564716880/CitiBikeStoryb
 
 
 
-In this project we built Tableau dashboards to relay information about the Citi Bike data from New York City, along with Pandas programming in Jypyter Notebook to conduct Data Engineering.
+In this project we built Tableau dashboards to relay information about the Citi Bike data from New York City, along with Pandas programming in Jypyter Notebook ("citibike_data.ipynb")  to conduct Data Engineering.
 
 
 About the Data
