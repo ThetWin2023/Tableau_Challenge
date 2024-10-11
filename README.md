@@ -26,5 +26,6 @@ Analysis for this project is based on 2024 Citi Bike Data.
 *Please note that May 2024 data is not avialble. Therefore May has been excluded from the reports and analysis.
 
 
-# Key Findings:
+# Key Findings
+### Peak Usage Month:
 - The heavist traffic is observed in the month of July. This could be the result of the month being the hottest month in the summer and patrons enjoying riding in the warm weather rather than driving their cars.
