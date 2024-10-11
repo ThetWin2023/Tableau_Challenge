@@ -24,3 +24,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 Analysis for this project is based on 2024 Citi Bike Data.
 
 *Please note that May 2024 data is not avialble. Therefore May has been excluded from the reports and analysis.
+
+
+# Key Findings:
+## The heavist traffic is observed in the month of July. This could be the result of the month being the hottest month in the summer and patrons enjoying riding in the warm weather rather than driving their cars.
