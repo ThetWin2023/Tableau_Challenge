@@ -27,4 +27,4 @@ Analysis for this project is based on 2024 Citi Bike Data.
 
 
 # Key Findings:
-The heavist traffic is observed in the month of July. This could be the result of the month being the hottest month in the summer and patrons enjoying riding in the warm weather rather than driving their cars.
+- The heavist traffic is observed in the month of July. This could be the result of the month being the hottest month in the summer and patrons enjoying riding in the warm weather rather than driving their cars.
