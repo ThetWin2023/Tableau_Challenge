@@ -5,7 +5,7 @@
 
 Summary
 
-The link to the dashboards and visualizations on Tableau Public is 
+The link to the dashboards and visualizations on Tableau Public can be found below:
 
 Dashboard:
 https://public.tableau.com/views/CitiBikeChallenge_17262564716880/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
