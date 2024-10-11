@@ -29,3 +29,20 @@ Analysis for this project is based on 2024 Citi Bike Data.
 # Key Findings
 ### Peak Usage Month:
 - The heavist traffic is observed in the month of July. This could be the result of the month being the hottest month in the summer and patrons enjoying riding in the warm weather rather than driving their cars.
+
+### Trip Duration:
+- Majority of the riders spend between 3 to 6 minutes on their trips.
+
+### Top Stations:
+- Hoboken Terminal - River St. and Hudson Place is the most frequently visited station as a starting point.
+
+### Busiest Months by Station:
+- June, July and August are the busiest months with Hoboken Terminal - River St. & Hudson Pl, Grove St. Path and City Hall Washington st & 1st being the top 3 stations riders visit most frequently during these months.
+
+### Busiest Time and Day of the Week:
+- Riders are most likely to use the bikes between 5PM and 7PM on Mondays, Thursdays and Fridays based on the Treemap.
+
+# Implications
+- Riders use the bikes the most in June, July and August.
+- Riders tend to use the bikes for their short commute (less than 10 minutes).
+- Riders use the bikes during rush hours between 5PM and 7PM on weekdays.
